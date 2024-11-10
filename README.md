@@ -4,4 +4,6 @@ This repo collects materials (papers, docs, slides, codes, etc.) about computer 
 
 ## Table of Contents
 
+- [CGRA](./CGRA.md)
 - [Dataflow](./Dataflow.md)
+- [Simulator](./Simulator.md)
