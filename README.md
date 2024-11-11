@@ -4,6 +4,7 @@ This repo collects materials (papers, docs, slides, codes, etc.) about computer 
 
 ## Table of Contents
 
+- [Accelerator](./Accelerator.md)
 - [CGRA](./CGRA.md)
 - [Dataflow](./Dataflow.md)
 - [Memory](./Memory.md)
